@@ -1,4 +1,3 @@
-#Testing updating is working
-#This is easy
+#I'm an Idiot - Cam
 print ("hello world")
 input()

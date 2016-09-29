@@ -1,2 +1,2 @@
-print ("hello world")
-input()
+#Testing updating is working
+#This is easy

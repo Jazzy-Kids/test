@@ -1,2 +1,2 @@
 print("Hello World Again")
-input()
+exit()
